@@ -13,7 +13,7 @@ Several data visualizations were conducted, including correlation heatmaps, scat
 <br>
 <br>
 <p>                                                                                                                      
-<img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/scatterplot.png" width="380" height="380" align="right">
+<img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/scatterplot.png" width="500" height="350" align="right">
 <img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/heatmap.png" width="380" height="380" align="left"> <br>
 </p>  
 <br>
