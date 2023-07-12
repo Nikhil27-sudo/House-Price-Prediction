@@ -16,10 +16,10 @@ Several data visualizations were conducted, including correlation heatmaps, scat
 <img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/scatterplot.png" width="500" height="350">
 </p>  
 <p align="center">
-<img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/heatmap.png" width="380" height="380"> 
+<img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/piechart.png" width="800" height="150"> <br>
 </p> 
 <p align="center">
-<img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/piechart.png" width="800" height="150"> <br>
+<img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/heatmap.png" width="380" height="380"> 
 </p> 
 
 ## Models & Results
