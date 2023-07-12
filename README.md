@@ -11,26 +11,13 @@ During the exploratory data analysis (EDA) phase, key attributes of the dataset 
 
 Several data visualizations were conducted, including correlation heatmaps, scatter plots, and pie charts, to gain insights from the dataset. These visualizations helped identify relationships between variables, visualize the distribution of data points, and present categorical information in a clear manner. By visually exploring the data, patterns, trends, and potential outliers were examined, aiding in the understanding of the dataset's characteristics and assisting in feature selection for the machine learning model.
 <br>
-<br>
-<p>                                                                                                                      
-<img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/scatterplot.png" width="500" height="350" align="right">
-<img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/heatmap.png" width="380" height="380" align="left"> <br>
+<br>   
+<p align="center">
+<img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/scatterplot.png" width="500" height="350">
 </p>  
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+<p align="center">
+<img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/heatmap.png" width="380" height="380"> 
+</p> 
 <p align="center">
 <img src="https://github.com/Nikhil27-sudo/House-Price-Prediction/blob/main/piechart.png" width="800" height="150"> <br>
 </p> 
